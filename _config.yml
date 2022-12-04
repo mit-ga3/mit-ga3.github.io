@@ -1,0 +1,17 @@
+title: GA^3 Reimbursement
+author: fishberg
+email: ga3-exec@mit.edu
+description: > # this means to ignore newlines until "show_excerpts:"
+    GA^3 Reimbursement Instructions
+
+show_excerpts: false # set to true to show excerpts on the homepage
+
+header_pages:
+- index.md
+
+# Build settings
+theme: minima
+
+#plugins:
+# - jekyll-feed
+# - jekyll-seo-tag
