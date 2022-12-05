@@ -19,46 +19,22 @@ title: GA^3 Event Reimbursement
 
 
 ## Name this RFP
-
-#### Template:
-* `[Budget Reference]; [Event Date]; [Your Initials]`
-
-#### Where:
-* `[Budget Reference]` is from the current semester's budget spreadsheet
-* `[Event Date]` is the date of the event in the following form `MMM DD` (e.g. `Jan 31`)
-* `[Your Initials]` are your initials (e.g. `AJF`)
-
-#### Notes:
-* Budget spreadsheets are linked to on [this](./useful-links) page
-
-#### Example:
-* `SOCIAL 1.1; Jan 31; AJF`
+* Template: `[Budget Reference]; [Event Date]; [Your Initials]`
+* Where:
+    * `[Budget Reference]` is from the [current semester's budget spreadsheet](./useful-links)
+    * `[Event Date]` is the date of the event in the following form `MMM DD` (e.g. `Jan 31`)
+    * `[Your Initials]` are your initials (e.g. `AJF`)
+* Example: `SOCIAL 1.1; Jan 31; AJF`
 
 
 
 ## Date of Service
-#### Template:
-* `[Purchase Date]`
-
-#### Where:
-* `[Purchase Date]` is the date of purchase in the following form `MM/DD/YYYY`.
-
-#### Notes:
-* `[Purchase Date]` must match the receipt.
-
-#### Example:
-* `01/29/2022`
+* The `Date of Service` must match the date on the receipt and be in the form `MM/DD/YYYY`.
 
 
 
 ## G/L Account
-#### Template:
-* `[G/L Account]` 
-
-#### Where:
-* `[G/L Account]` is an appropriately selected purchase category (click field for dropdown menu)
-
-#### Notes:
+* Select an appropriate purchase category. Click for the drop down.
 * Most common G/L Accounts:
     * `421000 - Food &; Beverages`
     * `420050 - Travel Expenses`
@@ -70,45 +46,29 @@ title: GA^3 Event Reimbursement
     * `420920 - Postage Mailing and Shipping U.S.`
     * `420318 - Recreational Related Expenses`
 
-#### Examples
-* `420318`
-
 
 
 ## Cost Object
-#### Template:
 * `1462834`
-
-#### Notes:
-* Always use this `Cost Object` unless otherwise instructed.
+* For this type of reimbursement, always use this `Cost Object` unless otherwise instructed.
 
 
 
 ## Amount
-#### Template:
-* `[Amount Spent]`
-
-#### Where:
-* `[Amount Spent]` is the total amount to be reimbursed, minus sales tax (if any)
-
-#### Example:
-* `123.45`
+* The total amount to be reimbursed, minus sales tax (if any). Do *NOT* include a `$`.
 
 
 
 ## Explanation
-
-#### Notes:
 * Write 2-3 sentences containing **all** the following material:
     * `[Description of what was purchased]`
     * `[Name of event purchase was for]`
     * `[Date of event]`
     * `[Location of event]`
     * `[Approximate number of attendees]`
-
-#### Example:
+* Example:
 ```
 Food purchased for the GA^3 Movie Night.
-The event was held on 2022-06-01 on the Bldg 33 front lawn.
+The event was held on 06/01/2022 on the Bldg 33 front lawn.
 There were approximately 50 attendees.
 ```

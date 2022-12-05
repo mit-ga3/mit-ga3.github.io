@@ -14,3 +14,4 @@ title: Useful Links
 ## Institute Reference
 * [SOLE handbook](https://studentlife.mit.edu/sites/default/files/SOLE%20Handbook.pdf)
 * [MIT’s tax exempt forms](https://vpf.mit.edu/mits-state-sales-tax-exemptions)
+* [OVC Tipping Guidelines](https://drive.google.com/file/d/1cbeyoK0fzLqHrLwqSlt6x83UE1Ga2ncS/view?usp=sharing)
