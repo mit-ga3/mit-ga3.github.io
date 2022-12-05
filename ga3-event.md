@@ -13,6 +13,8 @@ title: GA^3 Event Reimbursement
 <summary>Your completed RFP should look something like this.</summary>
 <img src="imgs/ga3-meeting-rfp.png">
 </details>
+<br/>
+<hr/>
 
 
 

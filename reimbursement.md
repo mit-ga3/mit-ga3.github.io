@@ -20,11 +20,9 @@ title: Reimbursement Instructions
 ## Step 2: Submit an RFP in Atlas
 1. Go to: [https://atlas.mit.edu/](https://atlas.mit.edu/)
 2. Click on "My Reimbursements" then "Request a Reimbursement for Me"
-
-<div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
+    * <div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
 CAUTION: Don't open multiple RFPs in different tabs/windows simultaneously -- the website is buggy, the separate tabs/windows will corrupt each other!
 </div>
-
 3. Fill out the "Request for Reimbursement (RFP)" according to the instructions specific to your reimbursement supplement:
     * [Personal food reimbursement for GA^3 Meeting ($20 max)](./ga3-meeting-food)
     * [Personal food reimbursement for GSC Community Lunches ($20 max)](./gsc-lunch)
@@ -32,12 +30,6 @@ CAUTION: Don't open multiple RFPs in different tabs/windows simultaneously -- th
     * [Mileage for GA^3 related event](./ga3-milage)
     * [dREFS Event Reimbursement](./dREFS)
     * Not listed? Email ga3-exec@mit.edu
-
-<details>
-<summary>Your completed RFP should look something like this.</summary>
-<img src="imgs/ga3-meeting-rfp.png">
-</details>
-
 4. Click "Save & Continue"
 5. Upload an itemized and readable picture or PDF of your receipt which also includes proof of payment
 6. Upload a screenshot of the email which publicly announced the event
@@ -56,7 +48,7 @@ CAUTION: Don't open multiple RFPs in different tabs/windows simultaneously -- th
 <div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #31708f; background-color: #d9edf7; border-color: #bce8f1;">
 INFO: If you mistakenly closed your RFP, you can reopen it by:
 <ol>
-<li>Go to <a href="https://atlas.mit.edu/">https://atlas.mit.edu/</a></li>
+<li>Go to: <a href="https://atlas.mit.edu/">https://atlas.mit.edu/</a></li>
 <li>Click on "My Reimbursements" then "My Reimbursement Inbox"</li>
 <li>Select the RFP of interest to reopen it</li>
 <li>After reviewing the RFP in your inbox, forward it again to the appropriate finanical officer. Viewing the RFP can recall it from the forwarded party's inbox.</li>
