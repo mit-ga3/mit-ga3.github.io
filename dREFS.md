@@ -19,7 +19,7 @@ title: dREFS Reimbursement
 * Where:
     * `[Event Date]` is the date of the event in the following form `MMM DD` (e.g. `Jan 31`)
     * `[Your Initials]` are your initials (e.g. `AJF`)
-* Example: `SOCIAL 1.1; Jan 31; AJF`
+* Example: `dREFS; Jan 31; AJF`
 
 
 ## Date of Service
