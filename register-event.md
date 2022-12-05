@@ -3,6 +3,8 @@ layout: default
 title: Registering an Event
 ---
 
+# Registering an Event
+
 ## Does your event need to be registered?
 * If your event will be funded in any part by GSC, your event **MUST** be registered **BEFORE** the event. Failure to do so will cause reimbursement delays.
 

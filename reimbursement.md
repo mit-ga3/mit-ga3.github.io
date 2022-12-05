@@ -31,7 +31,7 @@ Caution: Don't open multiple RFPs in different tabs/windows simultaneously -- th
     * [GA^3 Event Reimbursement (e.g. food/equipment/fees for event)](./ga3-event)
     * [Mileage for GA^3 related event](./ga3-milage)
     * [dREFS Event Reimbursement](./dREFS)
-    * Not listed? Email [ga3-exec@mit.edu](ga3-exec@mit.edu)
+    * Not listed? Email ga3-exec@mit.edu
 
 <details>
 <summary>Your RFP should look something like this.</summary>
@@ -61,6 +61,8 @@ Info: If you mistakenly closed your RFP, you can reopen it by:
 <li>Go to <a href="https://atlas.mit.edu/">https://atlas.mit.edu/</a></li>
 <li>Click on "My Reimbursements" then "My Reimbursement Inbox"</li>
 <li>Select the RFP of interest to reopen it</li>
+<li>After reviewing the RFP in your inbox, forward it again to the appropriate finanical officer. Viewing the RFP can recall it from the forwarded party's inbox.</li>
+</ol>
 </div>
 
 
