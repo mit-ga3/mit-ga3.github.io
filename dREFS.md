@@ -36,7 +36,7 @@ title: dREFS Reimbursement
     * `420166 - Entertainment`
     * `420258 - Office Supplies`
     * `420319 - Prizes &; Awards`
-    * `421900 - 421900 - Computer Supplies &; Peripherals`
+    * `421900 - Computer Supplies &; Peripherals`
     * `420920 - Postage Mailing and Shipping U.S.`
     * `420318 - Recreational Related Expenses`
 
