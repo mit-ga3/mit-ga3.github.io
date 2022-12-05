@@ -27,7 +27,7 @@ title: Reimbursement Instructions
     * [GA^3 Event Reimbursement (e.g. food/equipment/fees for event)](./ga3-event)
     * [Mileage for GA^3 related event](./ga3-milage)
     * [dREFS Event Reimbursement](./dREFS)
-    * Not listed? Email ga3-exec@mit.edu
+    * Not listed? Email [ga3-exec@mit.edu](mailto:ga3-exec@mit.edu)
 4. Click "Save & Continue"
 5. Upload an itemized and readable picture or PDF of your receipt which also includes proof of payment
 6. Upload a screenshot of the email which publicly announced the event
