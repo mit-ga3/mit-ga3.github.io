@@ -3,6 +3,15 @@ layout: default
 title: Home
 ---
 
-## GA^3 Reimbursements
+# GA^3 Reimbursements
 
-Coming soon!
+#### What are you looking to do?
+* [Request Reimbursement](./reimbursement)
+* [Event Registration (GSC funding only)](./event-registration)
+* [Event Planner FAQ](./event-planner-faq)
+* [Budget Request](./budget-request)
+* [Useful Links](./useful-links)
+
+#### Questions?
+Email GA^3 at [ga3-exec@mit.edu](ga3-exec@mit.edu)
+
