@@ -13,5 +13,5 @@ title: Home
 * [Useful Links](./useful-links)
 
 ## Questions?
-Email GA^3 at ga3-exec@mit.edu
+* Email GA^3 at ga3-exec@mit.edu
 
