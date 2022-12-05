@@ -26,7 +26,7 @@ title: Reimbursement Instructions
     * [Personal food reimbursement for GA^3 Meeting ($20 max)](./ga3-meeting-food)
     * [Personal food reimbursement for GSC Community Lunches ($20 max)](./gsc-lunch)
     * [GA^3 Event Reimbursement (e.g. food/equipment/fees for event)](./ga3-event)
-    * [Mileage for GA^3 related event](./ga3-milage)
+    * [Mileage for GA^3 related event](./ga3-mileage)
     * [dREFS Event Reimbursement](./dREFS)
     * Not listed? Email [ga3-exec@mit.edu](mailto:ga3-exec@mit.edu)
 4. Click "Save & Continue"
