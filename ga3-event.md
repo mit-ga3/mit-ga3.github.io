@@ -9,6 +9,11 @@ title: GA^3 Event Reimbursement
 * Do not submit a reimbursement for $1,000+ without talking to the GA^3 Treasurer first.
 * DO NOT SIGN ANY CONTRACTS on behalf of MIT. Your signature does not represent the Institute and all liability will fall on the unathorized singatory.
 
+<details>
+<summary>Your completed RFP should look something like this.</summary>
+<img src="imgs/ga3-meeting-rfp.png">
+</details>
+
 
 
 ## Name this RFP

@@ -5,6 +5,11 @@ title: dREFS Reimbursement
 
 # dREFS Reimbursement
 
+<details>
+<summary>Your completed RFP should look something like this.</summary>
+<img src="imgs/ga3-meeting-rfp.png">
+</details>
+
 
 
 ## Name this RFP

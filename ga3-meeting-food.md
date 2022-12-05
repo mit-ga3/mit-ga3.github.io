@@ -8,6 +8,11 @@ title: GA^3 Meeting Food Reimbursement
 * $20 max. If your receipt is for more than $20 (before tax), you may request max reimbursement.
 * All purchases must be made before the meeting/event ends.
 
+<details>
+<summary>Your completed RFP should look something like this.</summary>
+<img src="imgs/ga3-meeting-rfp.png">
+</details>
+
 
 
 ## Name this RFP

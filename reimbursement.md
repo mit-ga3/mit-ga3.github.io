@@ -18,11 +18,11 @@ title: Reimbursement Instructions
 
 
 ## Step 2: Submit an RFP in Atlas
-1. Go to [https://atlas.mit.edu/](https://atlas.mit.edu/)
+1. Go to: [https://atlas.mit.edu/](https://atlas.mit.edu/)
 2. Click on "My Reimbursements" then "Request a Reimbursement for Me"
 
 <div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
-Caution: Don't open multiple RFPs in different tabs/windows simultaneously -- the website is buggy, the separate tabs/windows will corrupt each other!
+CAUTION: Don't open multiple RFPs in different tabs/windows simultaneously -- the website is buggy, the separate tabs/windows will corrupt each other!
 </div>
 
 3. Fill out the "Request for Reimbursement (RFP)" according to the instructions specific to your reimbursement supplement:
@@ -34,7 +34,7 @@ Caution: Don't open multiple RFPs in different tabs/windows simultaneously -- th
     * Not listed? Email ga3-exec@mit.edu
 
 <details>
-<summary>Your RFP should look something like this.</summary>
+<summary>Your completed RFP should look something like this.</summary>
 <img src="imgs/ga3-meeting-rfp.png">
 </details>
 
@@ -53,10 +53,8 @@ Caution: Don't open multiple RFPs in different tabs/windows simultaneously -- th
 ## Step 3: GA^3 Reimbursement Google Form
 1. Complete [this Google Form](https://forms.gle/k3N3Mj7r8JaifaCS8) by copying over the requested information from your completed RFP.
 
-<div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
-</div>
 <div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #31708f; background-color: #d9edf7; border-color: #bce8f1;">
-Info: If you mistakenly closed your RFP, you can reopen it by:
+INFO: If you mistakenly closed your RFP, you can reopen it by:
 <ol>
 <li>Go to <a href="https://atlas.mit.edu/">https://atlas.mit.edu/</a></li>
 <li>Click on "My Reimbursements" then "My Reimbursement Inbox"</li>
@@ -67,7 +65,7 @@ Info: If you mistakenly closed your RFP, you can reopen it by:
 
 
 ## Step 4: Tracking your Reimbursement
-1. Go to [https://atlas.mit.edu/](https://atlas.mit.edu/)
+1. Go to: [https://atlas.mit.edu/](https://atlas.mit.edu/)
 2. Click on "My Reimbursements" then "Track My Reimbursements"
 3. A summary of all your unpaid RFPs will be shown
     * You can also see your paid RFPs from up to the last 90 days under "Select RFPs to display"

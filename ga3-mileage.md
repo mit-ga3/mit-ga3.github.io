@@ -12,6 +12,12 @@ title: GA^3 Mileage Reimbursement
 <img src="imgs/mileage-screenshot.png">
 </details>
 
+<details>
+<summary>Your completed RFP should look something like this.</summary>
+<img src="imgs/ga3-meeting-rfp.png">
+</details>
+
+
 ## Name this RFP
 
 #### Template:
