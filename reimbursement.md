@@ -11,6 +11,7 @@ title: Reimbursement Instructions
 * We cannot reimburse sales tax
     * You can get the tax removed by presenting [MIT’s tax exempt forms](https://vpf.mit.edu/mits-state-sales-tax-exemptions) to the merchant
 * We cannot reimburse alcohol
+* If tipping is appropriate, make sure you follow [OVC Tipping Guidelines](https://drive.google.com/file/d/1cbeyoK0fzLqHrLwqSlt6x83UE1Ga2ncS/view?usp=sharing). You will not be reimbursed for tips that exceed these guidelines.
 * Do not use the same receipts for multiple RFPs
 * Your reimbursement will be directly deposited into the bank account you have on record with MIT (i.e. the same account you receive your bi-weekly graduate stipend).
     * If you are not paid by MIT (i.e. a visiting student) you will instead receive a check in the mail
