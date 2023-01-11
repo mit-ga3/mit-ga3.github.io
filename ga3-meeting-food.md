@@ -49,15 +49,27 @@ title: GA^3 Meeting Food Reimbursement
 
 
 ## Explanation
+* Complete **all** the `[INPUT]` fields in the below template. Do not omit or reorder the fields.
 * Template:
-```
-Food reimbursement (max $20) for GA^3 Executive Committee meeting held on [Event Date].
 
-Agenda/Topic: GA^3 Executive Committee Meeting
-Location of Meeting: Hybrid (33-206 & Zoom)
-Number of MIT Students: ~20
-Number of MIT Employees: 0
-Number of Other Attendees: 0
 ```
-* Where:
-    * `[Event Date]` is the date of the meeting in the form `MM/DD/YYYY`
+Event Date: [INPUT]
+Event Time: [INPUT]
+Event Location: [INPUT]
+Event Topic: [INPUT]
+# of MIT Students: [INPUT]
+# of MIT Employees: [INPUT]
+# of Other Attendees: [INPUT]
+```
+
+* Example:
+
+```
+Event Date: 12/02/2022
+Event Time: 12:00pm
+Event Location: Hybrid (33-206 & Zoom)
+Event Topic: GA^3 Executive Committee Meeting
+# of MIT Students: ~20
+# of MIT Employees: 0
+# of Other Attendees: 0
+```

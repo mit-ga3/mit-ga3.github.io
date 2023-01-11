@@ -5,7 +5,7 @@ title: GA^3 Mileage Reimbursement
 
 # GA^3 Mileage Reimbursement
 * MIT reimburses mileage at the standard IRS Business Mileage Rate
-    * 2022 rate: `58.5 cents/mile` - email [ga3-exec@mit.edu](mailo:ga3-exec@mit.edu) if this is out of date
+    * 2022 rate: `58.5 cents/mile` - email [ga3-treasurer@mit.edu](mailo:ga3-treasurer@mit.edu) if this is out of date
 * Do **NOT** directly upload gas station receipts. Instead, upload a screenshot of Google Maps showing the mileage from the start location to the destination.
 
 <details>
@@ -59,12 +59,13 @@ title: GA^3 Mileage Reimbursement
     * `[Drive origin]`
     * `[Drive destination]`
     * `[Total mileage]`
-    * `[Number of passengers]
+    * `[Number of passengers]`
     * `[Name of event drive was for]`
     * `[Date of drive]`
     * `[Location of event]`
     * `[Approximate number of attendees]`
 * Example:
+
 ```
 Driving 439 miles from MIT (77 Massachusetts Ave, Cambridge, MA 02139, USA) to the White House (1600 Pennsylvania Ave, NW Washington, D.C. 20500).
 Car contained 3 additional passengers.

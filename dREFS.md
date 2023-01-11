@@ -54,15 +54,27 @@ title: dREFS Reimbursement
 
 
 ## Explanation
-* Write 2-3 sentences containing **all** the following material:
-    * `[Description of what was purchased]`
-    * `[Name of event purchase was for]`
-    * `[Date of event]`
-    * `[Location of event]`
-    * `[Approximate number of attendees]`
-* Example:
+* Complete **all** the `[INPUT]` fields in the below template. Do not omit or reorder the fields.
+* Template:
+
 ```
-Food purchased for the dREF office hours.
-The event was held on 01/31/2022 on the Bldg 33 front lawn.
-There were approximately 15 attendees.
+Event Date: [INPUT]
+Event Time: [INPUT]
+Event Location: [INPUT]
+Event Topic: [INPUT]
+# of MIT Students: [INPUT]
+# of MIT Employees: [INPUT]
+# of Other Attendees: [INPUT]
+```
+
+* Example:
+
+```
+Event Date: 12/02/2022
+Event Time: 12:00pm
+Event Location: Hybrid (33-206 & Zoom)
+Event Topic: dREFS Office Hours
+# of MIT Students: ~20
+# of MIT Employees: 0
+# of Other Attendees: 0
 ```

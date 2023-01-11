@@ -5,17 +5,21 @@ title: Reimbursement Instructions
 
 # Reimbursement Instructions
 
+## Step 0: Event Planning
+* If you're planning the event, check the [Event Planner FAQ](./event-planner-faq) before continuing.
+
 
 ## Step 1: Purchasing for an Event
-* Receipts must be itemized, timestamped, and show proof of payment
-* We cannot reimburse sales tax
-    * You can get the tax removed by presenting [MIT’s tax exempt forms](https://vpf.mit.edu/mits-state-sales-tax-exemptions) to the merchant
-* We cannot reimburse alcohol
+* Receipts must be itemized, timestamped, and show proof of payment.
+    * "Proof of payment" means the receipt states the items have been paid for by either cash/credit/debit (as opposed to a bill which just says how much is owed).
+* We cannot reimburse sales tax.
+    * You can get the tax removed by presenting all three of [MIT's tax exempt forms](https://vpf.mit.edu/mits-state-sales-tax-exemptions) to the merchant.
+* We cannot reimburse alcohol.
 * If tipping is appropriate, make sure you follow [OVC Tipping Guidelines](https://drive.google.com/file/d/1cbeyoK0fzLqHrLwqSlt6x83UE1Ga2ncS/view?usp=sharing). You will not be reimbursed for tips that exceed these guidelines.
-* Do not use the same receipts for multiple RFPs
+* Do not use the same receipts for multiple RFPs.
 * Your reimbursement will be directly deposited into the bank account you have on record with MIT (i.e. the same account you receive your bi-weekly graduate stipend).
-    * If you are not paid by MIT (i.e. a visiting student) you will instead receive a check in the mail
-* If you the event planner and using GSC funds, check if your event needs to be registered in Engage ([instructions here](./register-event)).
+    * If you are not paid by MIT (i.e. a visiting student) you will instead receive a check in the mail.
+* If you are the event planner and using GSC funds, check if your event needs to be registered in Atlas ([instructions here](./register-event)).
 
 
 ## Step 2: Submit an RFP in Atlas
@@ -24,20 +28,22 @@ title: Reimbursement Instructions
     * <div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">CAUTION: Don't open multiple RFPs in different tabs/windows simultaneously. The RFP website is buggy. This can causes the separate tabs/windows to corrupt each other!</div>
 3. Fill out the "Request for Reimbursement (RFP)" according to the instructions specific to your reimbursement supplement:
     * [Personal food reimbursement for GA^3 Meeting ($20 max)](./ga3-meeting-food)
-    * [Personal food reimbursement for Graduate Student Lunch Program](./gsl-lunch)
+    * [Reimbursement for Graduate Student Lunch Program](./gsl-lunch)
     * [GA^3 Event Reimbursement (e.g. food/equipment/fees for event)](./ga3-event)
     * [Mileage for GA^3 related event](./ga3-mileage)
     * [dREFS Event Reimbursement](./dREFS)
-    * Not listed? Email [ga3-exec@mit.edu](mailto:ga3-exec@mit.edu)
+    * Not listed? Email [ga3-treasurer@mit.edu](mailto:ga3-treasurer@mit.edu)
 4. Click "Save & Continue"
 5. Upload an itemized and readable picture or PDF of your receipt which also includes proof of payment
+    * Pictures should be `.jpg` or `.png` (not `.webp` or `.heic`) and no more than 2MBs.
 6. Upload a screenshot of the email which publicly announced the event
+    * Upload the email as a "receipt"
 7. Send the RFP to the appropriate finanical officer:
 
 | Name | Kerberos | Condition |
 | ---- | -------- | --------- |
-| Andrew Fishberg | fishberg | Everything **EXCEPT** GSC Communty Lunches |
-| Ryan de Freitas Bart | ryandfb | **ONLY** for GSC Community Lunches |
+| Andrew Fishberg | fishberg | Everything **EXCEPT** GSL Communty Lunches |
+| Skylar Eiskowitz | eiskowit | **ONLY** for GSL Community Lunches |
 
 8. **Keep the RFP Confirmation screen open!** You will need to copy information out of this screen. If you mistakenly close it, there are instructions on how to reopen it in the next step.
 

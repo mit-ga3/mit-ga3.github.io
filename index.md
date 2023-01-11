@@ -13,5 +13,5 @@ title: Home
 * [Useful Links](./useful-links)
 
 ## Questions?
-* Email GA^3 at [ga3-exec@mit.edu](mailto:ga3-exec@mit.edu)
-
+* Email the GA^3 Treasurer at [ga3-treasurer@mit.edu](mailto:ga3-treasurer@mit.edu)
+* Email all GA^3 Execs at [ga3-exec@mit.edu](mailto:ga3-exec@mit.edu)
