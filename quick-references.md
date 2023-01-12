@@ -6,7 +6,7 @@ title: Quick Refs
 # Quick References
 
 ## Cost Objects
-* `1462825` - GA^3 (AeroAstro) - 
+* `1462825` - GA^3 (AeroAstro)
 * `2720920` - GA^3 (SOLE)
 * `2720921` - GA^3 (SOLE GSC)
 * `1462825` - dREFS
