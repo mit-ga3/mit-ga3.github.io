@@ -7,8 +7,7 @@ title: Home
 
 ## What are you looking to do?
 * [Request Reimbursement](./reimbursement)
-* [Event Registration (GSC funding only)](./register-event)
-* [Event Planner FAQ](./event-planner-faq)
+* [Event Planner Checklist](./event-planner-checklist)
 * [Budget Request](./budget-request)
 * [Useful Links](./useful-links)
 

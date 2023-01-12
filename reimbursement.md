@@ -6,7 +6,7 @@ title: Reimbursement Instructions
 # Reimbursement Instructions
 
 ## Step 0: Event Planning
-* If you're planning the event, check the [Event Planner FAQ](./event-planner-faq) before continuing.
+* If you're planning the event, check the [Event Planner Checklist](./event-planner-checklist) before continuing.
 
 
 ## Step 1: Purchasing for an Event
