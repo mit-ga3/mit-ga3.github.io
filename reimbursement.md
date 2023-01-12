@@ -35,7 +35,7 @@ title: Reimbursement Instructions
     * Not listed? Email [ga3-treasurer@mit.edu](mailto:ga3-treasurer@mit.edu)
 4. Click "Save & Continue"
 5. Upload an itemized and readable picture or PDF of your receipt which also includes proof of payment
-    * Pictures should be `.jpg` or `.png` (not `.webp` or `.heic`) and no more than 2MBs.
+    * Pictures should be `.jpg` or `.png` (not `.webp` or `.heic`) and **no more than 2MBs**.
 6. Upload a screenshot of the email which publicly announced the event
     * Upload the email as a "receipt"
 7. Send the RFP to the appropriate finanical officer:
