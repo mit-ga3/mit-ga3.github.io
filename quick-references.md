@@ -5,6 +5,10 @@ title: Quick Refs
 
 # Quick References
 
+## Links
+* [Atlas Reimbursement](https://atlas.mit.edu/atlas/Main.action?tab=home&sapSystemId=PS1&sub=group_reimburse)
+* [RFP Google Form](https://forms.gle/k3N3Mj7r8JaifaCS8)
+
 ## Cost Objects
 * `1462825` - GA^3 (AeroAstro)
 * `2720920` - GA^3 (SOLE)
@@ -21,10 +25,6 @@ Event Topic:
 # of MIT Employees:
 # of Other Attendees:
 ```
-
-## Links
-* [Atlas Reimbursement](https://atlas.mit.edu/atlas/Main.action?tab=home&sapSystemId=PS1&sub=group_reimburse)
-* [RFP Google Form](https://forms.gle/k3N3Mj7r8JaifaCS8)
 
 ## Emails
 * Mary Mango [mmango@mit.edu](sendto:mmango@mit.edu)
