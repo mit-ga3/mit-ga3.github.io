@@ -5,7 +5,8 @@ title: Budget Request
 
 # Budget Request
 
-# Background
+<hr/>
+## Background
 
 ## When do budget requests happen?
 
@@ -21,7 +22,8 @@ Prior to this meeting, it is the responsibilty of each GA^3 chair (e.g. Social C
 
 The treasurer and co-presidents then compile these sub-budgets into a single GA^3 budget to share with department for approval. Once the budget is approved, the money is dispensed by the department into our GA^3 Cost Object for spending.
 
-# Instructions
+<hr/>
+## Instructions
 
 ## How do I submit a budget for my GA^3 position?
 
@@ -39,14 +41,16 @@ To submit your sub-budget, complete the following steps:
 7. When you are finished, click the "Share" button (top-right) and share the spreadsheet with [ga3-treasurer@mit.edu](mailto:ga3-treasurer@mit.edu).
 8. Send an email to [ga3-treasurer@mit.edu](mailto:ga3-treasurer@mit.edu) confirming you shared the spreadsheet. Include what sub-budget was submitted (e.g. Social Chair Sub-Budget) and the full names of yourself and your co-chairs (if any).
 
-# Important Budget Notes
+<hr/>
+## Important Budget Notes
 * If you are co-chairing a position (e.g. there are usually three Social Chairs), they should submit **ONE** sub-budget which all co-chairs have collaborated on. Submitting multiple sub-budgets just causes confusion, miscommunication, and duplicate requests.
 * The amount you request for an event should always include a reasonable safety buffer. Underspending is fine, overspending is **VERY BAD**.
 * If an event may run over budget for any reason, the planners should be **PROACTIVELY** reaching out to [ga3-treasurer@mit.edu](mailto:ga3-treasurer@mit.edu) to reallocate budget accordingly. **This is the responsibility of the event planners.**
 * If your event is paid by head, you should **ALWAYS** be capping the maximum number of attendees. More people showing up than you expected is **NOT** an excuse for overspending. If the planner wants to accomodate additional attendees, the planners should reach out to [ga3-treasurer@mit.edu](mailto:ga3-treasurer@mit.edu) to **PROACTIVELY** reallocate money to cover the additional costs.
 * Never hesitate to reach out to [ga3-treasurer@mit.edu](mailto:ga3-treasurer@mit.edu) with any questions. This is one of those cases where it is best to ask first.
 
-# FAQ
+<hr/>
+## FAQ
 
 ## We underspent this semester, can we spend it next semester?
 No. For each funding period money is effectively "use it or lose it". If, for example, you were planning to run an event in "Spring+Summer" and it got pushed to "Fall+Winter" you **MUST** re-request the funds for "Fall+Winter" funding cycle.
