@@ -23,6 +23,7 @@ Event Topic:
 ```
 
 ## Links
+* [Atlas Reimbursement](https://atlas.mit.edu/atlas/Main.action?tab=home&sapSystemId=PS1&sub=group_reimburse)
 * [RFP Google Form](https://forms.gle/k3N3Mj7r8JaifaCS8)
 
 ## Emails
