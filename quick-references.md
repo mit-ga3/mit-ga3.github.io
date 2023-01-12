@@ -24,3 +24,8 @@ Event Topic:
 
 ## Links
 * [RFP Google Form](https://forms.gle/k3N3Mj7r8JaifaCS8)
+
+## Emails
+* Mary Mango [mmango@mit.edu](sendto:mmango@mit.edu)
+* Kathryn Fischer [katfisch@mit.edu](sendto:katfisch@mit.edu)
+
