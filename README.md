@@ -3,4 +3,4 @@
 Website containing information for the GA^3 Reimbursement process.
 
 Currently hosted at:
-* [https://fishberg.github.io/ga3-reimbursement-site/](https://fishberg.github.io/ga3-reimbursement-site/)
+* [https://mit-ga3.github.io/](https://mit-ga3.github.io/)
