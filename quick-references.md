@@ -32,6 +32,6 @@ Event Topic:
 * Hybrid: `Hybrid (33-206 & Zoom)`
 
 ## Emails
-* Mary Mango [mmango@mit.edu](sendto:mmango@mit.edu)
-* Kathryn Fischer [katfisch@mit.edu](sendto:katfisch@mit.edu)
+* Mary Mango: [mmango@mit.edu](sendto:mmango@mit.edu)
+* Kathryn Fischer: [katfisch@mit.edu](sendto:katfisch@mit.edu)
 
