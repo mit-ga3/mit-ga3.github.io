@@ -36,8 +36,9 @@ title: Reimbursement Instructions
 4. Click "Save & Continue"
 5. Upload an itemized and readable picture or PDF of your receipt which also includes proof of payment
     * Pictures should be `.jpg` or `.png` (not `.webp` or `.heic`) and **no more than 2MBs**.
-6. Upload a screenshot of the email which publicly announced the event
+6. Upload a screenshot of the email or Slack message which publicly announced the event
     * Upload the email as a "receipt"
+    * The screenshot must specifically reference the date and time of the meeting (i.e. an email for a reoccuring meeting is not sufficient)
 7. Send the RFP to the appropriate finanical officer:
 
 | Name | Kerberos | Condition |
