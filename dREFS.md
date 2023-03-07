@@ -15,8 +15,9 @@ title: dREFS Reimbursement
 
 
 ## Name this RFP
-* Template: `dREFS; [Event Date]; [Your Initials]`
+* Template: `[Budget Reference]; [Event Date]; [Your Initials]`
 * Where:
+    * `[Budget Reference]` is from the [current semester's budget spreadsheet or Funds Viewer](./useful-links)
     * `[Event Date]` is the date of the event in the following form `MMM DD` (e.g. `Jan 31`)
     * `[Your Initials]` are your initials (e.g. `AJF`)
 * Example: `dREFS; Jan 31; AJF`

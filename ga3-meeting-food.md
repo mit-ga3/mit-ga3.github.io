@@ -18,11 +18,11 @@ title: GA^3 Meeting Food Reimbursement
 
 
 ## Name this RFP
-* Template: `EXEC 1.1; [Event Date]; [Your Initials]`
+* Template: `PRES 1.1; [Event Date]; [Your Initials]`
 * Where:
     * `[Event Date]` is the date of the event in the following form `MMM DD` (e.g. `Jan 31`)
     * `[Your Initials]` are your initials (e.g. `AJF`)
-* Example: `EXEC 1.1; Jan 31; AJF`
+* Example: `PRES 1.1; Jan 31; AJF`
 
 
 
