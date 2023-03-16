@@ -72,9 +72,9 @@ INFO: If you mistakenly closed your RFP, you can reopen it by:
 
 * If your RFP gets rejected, it will be returned to your RFP Inbox with a note indiciating the issue.
 * To resubmit your RFP:
-    1. Correct the error
-    2. Resend the the RFP to the appropriate finanical officer
-    3. Resubmit the Google Form.
+    1. Correct the error.
+    2. Resend the the RFP to the appropriate finanical officer.
+    3. Resubmit [the Google Form](https://forms.gle/tJP59fac8bpru6XHA).
 * To prevent your RFP from getting rejected again, make sure you do **ALL THREE** of the above steps.
 
 <div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #31708f; background-color: #d9edf7; border-color: #bce8f1;">
