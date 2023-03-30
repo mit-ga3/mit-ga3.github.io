@@ -18,6 +18,10 @@ title: Quick Refs
 
 ## RFP Template
 ```
+[Budget Reference]; [Event Date]; [Your Initials]
+```
+
+```
 Event Date:
 Event Time:
 Event Location:
