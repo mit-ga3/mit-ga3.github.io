@@ -4,8 +4,8 @@ title: GA^3 Mileage Reimbursement
 ---
 
 # GA^3 Mileage Reimbursement
-* MIT reimburses mileage at the standard IRS Business Mileage Rate
-    * 2022 rate: `58.5 cents/mile` - email [ga3-treasurer@mit.edu](mailo:ga3-treasurer@mit.edu) if this is out of date
+* MIT reimburses mileage at the standard [IRS Business Mileage Rate](https://www.irs.gov/newsroom/irs-issues-standard-mileage-rates-for-2023-business-use-increases-3-cents-per-mile)
+    * 2023 rate: `65.5 cents/mile` - email [ga3-treasurer@mit.edu](mailo:ga3-treasurer@mit.edu) if this is out of date
 * Do **NOT** directly upload gas station receipts. Instead, upload a screenshot of Google Maps showing the mileage from the start location to the destination.
 
 <details>
