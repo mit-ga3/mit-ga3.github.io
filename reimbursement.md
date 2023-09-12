@@ -46,7 +46,7 @@ title: Reimbursement Instructions
 | Andrew Fishberg | fishberg | Everything **EXCEPT** GSL Communty Lunches |
 | Skylar Eiskowitz | eiskowit | **ONLY** for GSL Community Lunches |
 
-<div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">CAUSION: Keep the RFP Confirmation screen open! You will need to copy information out of this screen. If you mistakenly close it, there are instructions on how to reopen it in the next step.</div>
+<div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">CAUTION: Keep the RFP Confirmation screen open! You will need to copy information out of this screen. If you mistakenly close it, there are instructions on how to reopen it in the next step.</div>
 
 ## Step 3: GA^3 Reimbursement Google Form
 1. Complete [this Google Form](https://forms.gle/tJP59fac8bpru6XHA) by copying over the requested information from your completed RFP.
