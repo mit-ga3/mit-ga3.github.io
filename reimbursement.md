@@ -46,7 +46,9 @@ title: Reimbursement Instructions
 | Andrew Fishberg | fishberg | Everything **EXCEPT** GSL Communty Lunches |
 | Skylar Eiskowitz | eiskowit | **ONLY** for GSL Community Lunches |
 
-<div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">CAUTION: Keep the RFP Confirmation screen open! You will need to copy information out of this screen. If you mistakenly close it, there are instructions on how to reopen it in the next step.</div>
+<div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
+CAUTION: Keep the RFP Confirmation screen open! You will need to copy information out of this screen. If you mistakenly close it, there are instructions on how to reopen it in the next step.
+</div>
 
 ## Step 3: GA^3 Reimbursement Google Form
 1. Complete [this Google Form](https://forms.gle/tJP59fac8bpru6XHA) by copying over the requested information from your completed RFP.
@@ -61,6 +63,13 @@ INFO: If you mistakenly closed your RFP, you can reopen it by:
 </ol>
 </div>
 
+<div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #31708f; background-color: #d9edf7; border-color: #bce8f1;">
+INFO: If your RFP has multiple line items with the same Cost Object and Sub-Budget Code (even if G/L Account is different), you only need to submit a single Google Form. If this is the case, enter the total RFP value into the Google Form and the G/L Account for the largest expense. 
+</div>
+
+<div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
+CAUTION: If the Cost Object or Sub-Budget Code differs between line items, you must submit separate Google Forms. differs between line items, you should have submittsubmit multiple Sub-Budget Code differ between line items, you need to submit.
+</div>
 
 ## Step 4: Tracking your Reimbursement
 1. Go to: [https://atlas.mit.edu/](https://atlas.mit.edu/)
