@@ -22,9 +22,9 @@ title: GA^3 Mileage Reimbursement
 
 
 ## Name this RFP
-* Template: `[Budget Reference]; [Event Date]; [Your Initials]`
+* Template: `[Sub-Budget Code]; [Event Date]; [Your Initials]`
 * Where:
-    * `[Budget Reference]` is from the [current semester's budget spreadsheet or Funds Viewer](./useful-links)
+    * `[Sub-Budget Code]` is from the [current semester's budget spreadsheet or Funds Viewer](./useful-links)
     * `[Event Date]` is the date of the event in the following form `MMM DD` (e.g. `Jan 31`)
     * `[Your Initials]` are your initials (e.g. `AJF`)
 * Example: `SOC 1.1; Jan 31; AJF`
