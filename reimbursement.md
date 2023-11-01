@@ -68,7 +68,7 @@ INFO: If your RFP has multiple line items with the same Cost Object and Sub-Budg
 </div>
 
 <div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
-CAUTION: If the Cost Object or Sub-Budget Code differs between line items, you must submit separate Google Forms. differs between line items, you should have submittsubmit multiple Sub-Budget Code differ between line items, you need to submit.
+CAUTION: If the Cost Object or Sub-Budget Code differs between line items, you must submit separate Google Forms for each.
 </div>
 
 ## Step 4: Tracking your Reimbursement
