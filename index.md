@@ -7,6 +7,7 @@ title: Home
 
 ## What are you looking to do?
 * [Request Reimbursement](./reimbursement)
+* [MIT Direct Payment](./direct-payment)
 * [Event Planner Checklist](./event-planner-checklist)
 * [Budget Request](./budget-request)
 * [Useful Links](./useful-links)
