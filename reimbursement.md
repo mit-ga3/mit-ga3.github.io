@@ -43,7 +43,7 @@ title: Reimbursement Instructions
 
 | Name | Kerberos | Condition |
 | ---- | -------- | --------- |
-| Julie Zhu | qianyu_z | Everything **EXCEPT** GSM Communty Meals |
+| Qianyu Zhu | qianyu_z | Everything **EXCEPT** GSM Communty Meals |
 | Christopher Kwon | ckwon23 | **ONLY** for GSM Community Meals |
 
 <div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
