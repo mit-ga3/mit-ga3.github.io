@@ -12,6 +12,7 @@ title: Reimbursement Instructions
 ## Step 1: Purchasing for an Event
 * Receipts must be itemized, timestamped, and show proof of payment.
     * "Proof of payment" means the receipt states the items have been paid for by either cash/credit/debit (as opposed to a bill which just says how much is owed).
+    * If "proof of payment" or any other required feature is missing on your reciept, please complete a [Missing Receipt Affidavit](https://web.mit.edu/lns/services/Missing_Receipt_Affidavit_0.pdf) and upload it alongside your receipt. 
 * We cannot reimburse sales tax.
     * You can get the tax removed by presenting all three of [MIT's tax exempt forms](https://vpf.mit.edu/mits-state-sales-tax-exemptions) to the merchant.
 * We cannot reimburse alcohol.
