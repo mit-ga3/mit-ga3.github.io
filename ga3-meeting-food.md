@@ -18,8 +18,9 @@ title: GA^3 Meeting Food Reimbursement
 
 
 ## Name this RFP
-* Template: `PRES 1.1; [Event Date]; [Your Initials]`
+* Template: `PRES 1.*; [Event Date]; [Your Initials]`
 * Where:
+    * `PRES 1.*` is the event type (e.g. `PRES 1.1` for bi-weekly Executive Committee Meeting, `PRES 1.2` for other officer meeting)
     * `[Event Date]` is the date of the event in the following form `MMM DD` (e.g. `Jan 31`)
     * `[Your Initials]` are your initials (e.g. `AJF`)
 * Example: `PRES 1.1; Jan 31; AJF`
