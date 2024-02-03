@@ -44,8 +44,9 @@ title: Reimbursement Instructions
 
 | Name | Kerberos | Condition |
 | ---- | -------- | --------- |
-| Qianyu Zhu | qianyu_z | Everything **EXCEPT** GSM Communty Meals |
+| Qianyu Zhu | qianyu_z | Everything **else** |
 | Christopher Kwon | ckwon23 | **ONLY** for GSM Community Meals |
+| Marlene Euchenhofer | euchmv | **ONLY** for Executive Committee Meeting |
 
 <div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
 CAUTION: Keep the RFP Confirmation screen open! You will need to copy information out of this screen. If you mistakenly close it, there are instructions on how to reopen it in the next step.
