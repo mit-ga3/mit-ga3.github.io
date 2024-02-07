@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GSM Lunch Reimbursement
+title: GSM Meal Reimbursement
 ---
 
 # Graduate Student Meal Program Reimbursement
