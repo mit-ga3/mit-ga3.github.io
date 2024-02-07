@@ -6,7 +6,7 @@ title: Useful Links
 # Useful Links
 
 ## Funds Viewers
-* [Current Funds Viewer](https://docs.google.com/spreadsheets/d/1XCZZMCXB8W0CJMI9l6wYeD642H0_H90sL7TvdSoaIgU)
+* [Current Funds Viewer](https://docs.google.com/spreadsheets/d/1mu_nh-AUvSBtIDbkmXgD7FpUBlprBTb0zHk7o05vjQg)
 
 ## Budget Spreadsheets
 * [Spring 2023](https://docs.google.com/spreadsheets/d/1YysnVg1U_VWJV8QDLgxHqlWN0ElCfmfLKhQUWgClnyc)
