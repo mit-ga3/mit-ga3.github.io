@@ -87,7 +87,7 @@ CAUTION: If the Cost Object or Sub-Budget Code differs between line items, you m
 * To resubmit your RFP:
     1. Correct the error.
     2. Resend the the RFP to the appropriate finanical officer.
-    3. Resubmit [the Google Form](https://forms.gle/tJP59fac8bpru6XHA).
+    3. Resubmit [the Google Form](https://forms.gle/URog4LprTQhmz1r38).
 * To prevent your RFP from getting rejected again, make sure you do **ALL THREE** of the above steps.
 
 <div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #31708f; background-color: #d9edf7; border-color: #bce8f1;">
