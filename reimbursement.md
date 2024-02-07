@@ -54,6 +54,7 @@ CAUTION: Keep the RFP Confirmation screen open! You will need to copy informatio
 
 ## Step 3: GA^3 Reimbursement Google Form
 1. Complete [this Google Form](https://forms.gle/URog4LprTQhmz1r38) by copying over the requested information from your completed RFP.
+   
    **The 2024 form is activated on Feb 7, 7:00AM! Make sure you are using the corrent form :-D**
 
 <div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #31708f; background-color: #d9edf7; border-color: #bce8f1;">
