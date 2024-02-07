@@ -29,7 +29,7 @@ title: Reimbursement Instructions
     * <div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">CAUTION: Don't open multiple RFPs in different tabs/windows simultaneously. The RFP website is buggy. This can causes the separate tabs/windows to corrupt each other!</div>
 3. Fill out the "Request for Reimbursement (RFP)" according to the instructions specific to your reimbursement supplement:
     * [Personal food reimbursement for GA^3 Meeting ($20 max)](./ga3-meeting-food)
-    * [Reimbursement for Graduate Student Lunch Program](./gsm-program)
+    * [Reimbursement for Graduate Student Meal Program](./gsm-program)
     * [GA^3 Event Reimbursement (e.g. food/equipment/fees for event)](./ga3-event)
     * [Mileage for GA^3 related event](./ga3-mileage)
     * [dREFS Event Reimbursement](./dREFS)
