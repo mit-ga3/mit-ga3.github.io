@@ -22,8 +22,8 @@ title: GA^3 Meeting Food Reimbursement
 * Where:
     * `PRES 1.*` is the event type (e.g. `PRES 1.1` for bi-weekly Executive Committee Meeting, `PRES 1.2` for other officer meeting)
     * `[Event Date]` is the date of the event in the following form `MMM DD` (e.g. `Jan 31`)
-    * `[Your Initials]` are your initials (e.g. `AJF`)
-* Example: `PRES 1.1; Jan 31; AJF`
+    * `[Your Initials]` are your initials (e.g. `MVE`)
+* Example: `PRES 1.1; Jan 31; MVE`
 
 
 
@@ -66,11 +66,11 @@ Event Topic: [INPUT]
 * Example:
 
 ```
-Event Date: 12/02/2022
-Event Time: 12:00pm
+Event Date: 02/19/2024
+Event Time: 6:00pm
 Event Location: Hybrid (33-206 & Zoom)
 Event Topic: GA^3 Executive Committee Meeting
-# of MIT Students: ~20
+# of MIT Students: ~12
 # of MIT Employees: 0
 # of Other Attendees: 0
 ```
