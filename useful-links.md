@@ -9,6 +9,7 @@ title: Useful Links
 * [Current Funds Viewer](https://docs.google.com/spreadsheets/d/1mu_nh-AUvSBtIDbkmXgD7FpUBlprBTb0zHk7o05vjQg)
 
 ## Budget Spreadsheets
+* [Spring 2024](https://docs.google.com/spreadsheets/d/1XCZZMCXB8W0CJMI9l6wYeD642H0_H90sL7TvdSoaIgU/edit?usp=sharing)
 * [Fall 2023](https://docs.google.com/spreadsheets/d/1zWjn8dSL3i781rxUOGFs2WbfwDcDVArDytcC4zlZ_bY)
 * [Spring 2023](https://docs.google.com/spreadsheets/d/1w0THkuHjtXimyCrdxxbdKnp2nuHi8i1DIjnhuZrzo8Q/edit?usp=sharing)
 * [Fall 2022](https://docs.google.com/spreadsheets/d/1kMYYwpZhQv1XZ9_5MtqY1av89oNFIM2EEUhXON0P2zA/edit?usp=sharing)
