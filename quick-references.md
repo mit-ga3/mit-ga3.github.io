@@ -8,7 +8,7 @@ title: Quick Refs
 ## Links
 * [Atlas Reimbursement](https://atlas.mit.edu/atlas/Main.action?tab=home&sapSystemId=PS1&sub=group_reimburse)
 * [RFP Google Form](https://forms.gle/tECWjPr4A1iqSaqt5)
-* [Funds Viewer](https://docs.google.com/spreadsheets/d/1mu_nh-AUvSBtIDbkmXgD7FpUBlprBTb0zHk7o05vjQg/edit#gid=0)
+* [Funds Viewer](https://docs.google.com/spreadsheets/d/1tzDp6vCgJY7r8jwdteymZuccK6CeoVq2xsQ3U_2hBIA/edit?usp=sharing)
 
 ## Cost Objects
 * `1462834` - GA^3 (AeroAstro)
