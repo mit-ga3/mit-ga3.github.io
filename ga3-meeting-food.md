@@ -5,7 +5,7 @@ title: GA^3 Meeting Food Reimbursement
 
 # GA^3 Meeting Food Reimbursement
 
-* $20 max. If your receipt is for more than $18 (before tax), you may request max reimbursement.
+* $18 max. If your receipt is for more than $18 (before tax), you may request max reimbursement.
 * All purchases must be made **before** the meeting/event ends.
 * RFPs are due EOD the Sunday after the meeting to be processed.
 
