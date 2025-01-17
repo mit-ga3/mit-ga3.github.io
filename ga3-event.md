@@ -6,7 +6,7 @@ title: GA^3 Event Reimbursement
 # GA^3 Event Reimbursement
 
 * If your event will be funded in any part by GSC, see the [event registration instructions](./event-registration).
-* Do not submit a reimbursement for $1,000+ without talking to the GA^3 Treasurer first.
+* Generally, please check in with the GA^3 Treasurer first before making large purchases and check the [current funds viewer](./useful-links), but never submit a reimbursement for $1,000+ without talking to the GA^3 Treasurer first.
 * DO NOT SIGN ANY CONTRACTS on behalf of MIT. Your signature does not represent the Institute and all liability will fall on the unathorized singatory.
 
 <details>
