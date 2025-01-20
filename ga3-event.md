@@ -36,7 +36,8 @@ title: GA^3 Event Reimbursement
 ## G/L Account
 * Select an appropriate purchase category. Click for the drop down.
 * Most common G/L Accounts:
-    * `421000 - Food &; Beverages`
+    * `421000 - Meetings - Food &; Beverages`
+    * `421200 - Food`
     * `420050 - Travel Expenses`
     * `420800 - Books &; Publications`
     * `420166 - Entertainment`
