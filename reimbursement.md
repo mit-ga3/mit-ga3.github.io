@@ -44,8 +44,8 @@ title: Reimbursement Instructions
 
 | Name | Kerberos | Condition |
 | ---- | -------- | --------- |
-| _tba_ | _tba_ | **ONLY** for GSM Community Meals |
 | Patrick Riley | pdriley | **ONLY** for Executive Committee Meeting |
+| Evan Gibney | egibney | **ONLY** for GSM Community Meals |
 | Marlene Euchenhofer | euchmv | Everything **else** |
 
 <div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
