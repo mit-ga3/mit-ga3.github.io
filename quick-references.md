@@ -7,7 +7,7 @@ title: Quick Refs
 
 ## Links
 * [Atlas Reimbursement](https://atlas.mit.edu/atlas/Main.action?tab=home&sapSystemId=PS1&sub=group_reimburse)
-* [RFP Google Form](https://forms.gle/tECWjPr4A1iqSaqt5)
+* [RFP Google Form](https://docs.google.com/forms/d/e/1FAIpQLSdTrrSsmrScuRQb6gpVo_k_PYUQlhRfK0yKzrvmFqpk2tB-jA/viewform?usp=sharing)
 * [Funds Viewer](https://docs.google.com/spreadsheets/d/1tzDp6vCgJY7r8jwdteymZuccK6CeoVq2xsQ3U_2hBIA/edit?usp=sharing)
 
 ## Cost Objects
