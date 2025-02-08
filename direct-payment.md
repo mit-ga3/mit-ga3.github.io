@@ -6,7 +6,7 @@ title: Direct Payment
 # MIT Direct Payment
 
 ## Buy-to-Pay - Amazon
-If you order on Amazon through [Buy2Pay](http://buying.mit.edu/) then you do not need approval. Just please add the GA^3 Treasurer as an approver and email the GA^3 Treasurer to inform them of the purchase.
+If you order on Amazon through [Buy2Pay](http://buying.mit.edu/) then you do not need approval. Just please add the GA^3 Treasurer as an approver and email the GA^3 Treasurer to inform them of the purchase. Please **share the receipt with the treasurer** such that the purchase appears in GA^3's bookkepping and make sure to confirm that you received the order on Buy2Pay once it has come in.
 
 ## Buy-to-Pay (B2P) - Purchase Orders - Contact GA^3 Treasurer
 A Purchase Order (PO) is used for goods and services - excluding travel - as a commitment to pay the vendor. PO's are not requests for a check payment. Please note, depending on the level of complexity in the PO, it could take anywhere from fifteen (15) business days to over forty-five (45) business days for it to be completed.
