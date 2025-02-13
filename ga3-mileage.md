@@ -4,8 +4,8 @@ title: GA^3 Mileage Reimbursement
 ---
 
 # GA^3 Mileage Reimbursement
-* MIT reimburses mileage at the standard [IRS Business Mileage Rate](https://www.irs.gov/newsroom/irs-issues-standard-mileage-rates-for-2023-business-use-increases-3-cents-per-mile)
-    * 2023 rate: `67 cents/mile` - email [ga3-treasurer@mit.edu](mailo:ga3-treasurer@mit.edu) if this is out of date
+* MIT reimburses mileage at the standard [IRS Business Mileage Rate](https://cardata.co/blog/2025-new-irs-rate-and-vrps/)
+    * 2025 rate: `70 cents/mile` - email [ga3-treasurer@mit.edu](mailo:ga3-treasurer@mit.edu) if this is out of date
 * Do **NOT** directly upload gas station receipts. Instead, upload a screenshot of Google Maps showing the mileage from the start location to the destination.
 
 <details>
@@ -70,7 +70,7 @@ title: GA^3 Mileage Reimbursement
 Driving 439 miles from MIT (77 Massachusetts Ave, Cambridge, MA 02139, USA) to the White House (1600 Pennsylvania Ave, NW Washington, D.C. 20500).
 Car contained 3 additional passengers.
 
-0.585 ($/mi) * 439 (mi) = $256.82
+0.70 ($/mi) * 439 (mi) = $307.30
 
 Drive was for the GA^3 DC Tour.
 The event was held on 01/31/2022 in Washington DC.
