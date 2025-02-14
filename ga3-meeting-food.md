@@ -34,7 +34,7 @@ title: GA^3 Meeting Food Reimbursement
 
 
 ## G/L Account
-* `421000 - Food &; Beverages`
+* `421000 (Meetings - Food & Beverages)`
 * For this type of reimbursement, always use this `G/L Account` unless otherwise instructed.
 
 
