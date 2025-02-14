@@ -29,9 +29,10 @@ title: dREFS Reimbursement
 
 
 ## G/L Account
-* Select an appropriate purchase category. Click for the drop down.
+* Select the appropriate purchase category. Click in Atlas for the drop down or see [Frequently used G/L Accounts](https://vpf.mit.edu/frequently-used-gl-accounts?check_logged_in=1).
 * Most common G/L Accounts:
-    * `421000 - Food &; Beverages`
+    * `421000 - Meetings - Food &; Beverages`
+    * `421200 - Food`
     * `420050 - Travel Expenses`
     * `420800 - Books &; Publications`
     * `420166 - Entertainment`
@@ -40,6 +41,7 @@ title: dREFS Reimbursement
     * `421900 - Computer Supplies &; Peripherals`
     * `420920 - Postage Mailing and Shipping U.S.`
     * `420318 - Recreational Related Expenses`
+* If you are unsure, **ask the GA^3 Treasurer** first to confirm before submitting the RFP.
 
 
 
