@@ -9,28 +9,9 @@ title: GA^3 Event Reimbursement
 * Generally, please check in with the GA^3 Treasurer first before making large purchases and check the [current funds viewer](./useful-links), but never submit a reimbursement for $1,000+ without talking to the GA^3 Treasurer first.
 * DO NOT SIGN ANY CONTRACTS on behalf of MIT. Your signature does not represent the Institute and all liability will fall on the unathorized singatory.
 
-<details>
-<summary>Your completed RFP should look something like this.</summary>
-<img src="imgs/ga3-meeting-rfp.png">
-</details>
-<br/>
-<hr/>
-
-
-
-## Name this RFP
-* Template: `[Sub-Budget Code]; [Event Date]; [Your Initials]`
-* Where:
-    * `[Sub-Budget Code]` is from the [current semester's budget spreadsheet or Funds Viewer](./useful-links)
-    * `[Event Date]` is the date of the event in the following form `MMM DD` (e.g. `Jan 31`)
-    * `[Your Initials]` are your initials (e.g. `AJF`)
-* Example: `SOC 1.1; Jan 31; AJF`
-
-
 
 ## Date of Service
 * The `Date of Service` must match the date on the receipt and be in the form `MM/DD/YYYY`.
-
 
 
 ## G/L Account
@@ -49,28 +30,22 @@ title: GA^3 Event Reimbursement
     * `420318 - Recreational Related Expenses`
 * If you are unsure, **ask the GA^3 Treasurer** first to confirm before submitting the RFP.
 
-
-
 ## Cost Object
-* `1462834`
+* `1462834 - AA GA^3 Student Funds - HQ - N`
 * For this type of reimbursement, always use this `Cost Object` unless otherwise instructed.
-
-
 
 ## Amount
 * The total amount to be reimbursed, minus sales tax (if any). Do *NOT* include a `$`.
-
-
 
 ## Explanation
 * Complete **all** the `[INPUT]` fields in the below template. Do not omit or reorder the fields.
 * Template:
 
 ```
+Event Topic: [INPUT]
 Event Date: [INPUT]
 Event Time: [INPUT]
 Event Location: [INPUT]
-Event Topic: [INPUT]
 # of MIT Students: [INPUT]
 # of MIT Employees: [INPUT]
 # of Other Attendees: [INPUT]
@@ -79,11 +54,14 @@ Event Topic: [INPUT]
 * Example:
 
 ```
+Event Topic: GA^3 Executive Committee Meeting
 Event Date: 12/02/2022
 Event Time: 12:00pm
 Event Location: Hybrid (33-206 & Zoom)
-Event Topic: GA^3 Executive Committee Meeting
 # of MIT Students: ~20
 # of MIT Employees: 0
 # of Other Attendees: 0
 ```
+
+## Sub-budget code
+* Refer to the current funds viewer or the semester budget to determine sub-budget code. If unclear, reach out to ga3-treasurer@mit.edu.
