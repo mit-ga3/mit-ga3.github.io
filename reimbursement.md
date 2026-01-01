@@ -5,6 +5,9 @@ title: Reimbursement Instructions
 
 # Reimbursement Instructions
 
+<div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #31708f; background-color: #d9edf7; border-color: #bce8f1;">
+INFO: We ask you to **submit your RFP within 5 days after the event took place**. This allows us to keep track of spending and to give us enough time to process (and if needed correct) the RFP. The official AeroAstro deadline is 30 days. We do not want to deal with delayed RFPS!
+
 ## Step 0: Event Planning
 * If you're planning the event, check the [Event Planner Checklist](./event-planner-checklist) before continuing.
 
@@ -23,10 +26,9 @@ title: Reimbursement Instructions
 * If you are the event planner and using GSC funds, check if your event needs to be registered in Atlas ([instructions here](./register-event)).
 
 
-## Step 2: Submit an RFP in Atlas
-1. Go to: [https://atlas.mit.edu/](https://atlas.mit.edu/)
-2. Click on "My Reimbursements" then "Request a Reimbursement for Me"
-    * <div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">CAUTION: Don't open multiple RFPs in different tabs/windows simultaneously. The RFP website is buggy. This can causes the separate tabs/windows to corrupt each other!</div>
+## Step 2: Submit an RFP via Atlas
+1. As of January 1, 2026, the old RFP system has been retired and RFPs are now submitted via the newer Atlas App [https://app.atlas-apps.mit.edu/](https://app.atlas-apps.mit.edu/)
+2. Please follow these detailed and continuously updated step-by step [instructions](https://docs.google.com/document/d/1ytAkb3gEXvZEUq1BNHAQom11A8z07CE1oZkpPaF_8Hc/edit?usp=sharing)
 3. Fill out the "Request for Reimbursement (RFP)" according to the instructions specific to your reimbursement supplement:
     * [Personal food reimbursement for GA^3 Meeting ($18 max)](./ga3-meeting-food)
     * [Reimbursement for Graduate Student Meal Program](./gsm-program)
@@ -34,18 +36,17 @@ title: Reimbursement Instructions
     * [Mileage for GA^3 related event](./ga3-mileage)
     * [dREFS Event Reimbursement](./dREFS)
     * Anything else unclear? Email [ga3-treasurer@mit.edu](mailto:ga3-treasurer@mit.edu)
-4. Click "Save & Continue"
-5. Upload an itemized and readable picture or PDF of your receipt which also includes proof of payment
+4. Upload an itemized and readable picture or PDF of your receipt which also includes proof of payment
     * Pictures should be `.jpg` or `.png` (not `.webp` or `.heic`) and **no more than 2MBs**.
-6. Upload a screenshot of the email or Slack message which publicly announced the event
+5. Upload a screenshot of the email or Slack message which publicly announced the event
     * Upload the email as a "receipt"
     * The screenshot must specifically reference the date and time of the meeting (i.e. an email for a reoccuring meeting is not sufficient)
-7. Send the RFP to the appropriate finanical officer:
+7. Please **do not submit for approval** but **submit for review** instead. This means that a GA^3 finanical approver will first check your RFP and make sure that it is tracked by us. The approvers are:
 
 | Name | Kerberos | Condition |
 | ---- | -------- | --------- |
-| Patrick Riley | pdriley | **ONLY** for Executive Committee Meeting |
-| Evan Gibney | egibney | **ONLY** for GSM Community Meals |
+| *tba* | *tba* | **ONLY** for Executive Committee Meeting |
+| *tba* | *tba* | **ONLY** for GSM Community Meals |
 | Marlene Euchenhofer | euchmv | Everything **else** |
 
 <div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
@@ -53,17 +54,7 @@ CAUTION: Keep the RFP Confirmation screen open! You will need to copy informatio
 </div>
 
 ## Step 3: GA^3 Reimbursement Google Form
-1. Complete [this Google Form](https://forms.gle/URog4LprTQhmz1r38) by copying over the requested information from your completed RFP.
-
-<div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #31708f; background-color: #d9edf7; border-color: #bce8f1;">
-INFO: If you mistakenly closed your RFP, you can reopen it by:
-<ol>
-<li>Go to: <a href="https://atlas.mit.edu/">https://atlas.mit.edu/</a></li>
-<li>Click on "My Reimbursements" then "My Reimbursement Inbox"</li>
-<li>Select the RFP of interest to reopen it</li>
-<li>After reviewing the RFP in your inbox, forward it again to the appropriate finanical officer. Viewing the RFP can recall it from the forwarded party's inbox.</li>
-</ol>
-</div>
+1. Complete [this Google Form](https://forms.gle/FUZ41TRZus2TLtdW8) by copying over the requested information from your completed RFP.
 
 <div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #31708f; background-color: #d9edf7; border-color: #bce8f1;">
 INFO: If your RFP has multiple line items with the same Cost Object, Sub-Budget Code, and G/L Account, you only need to submit a single Google Form. If this is the case, enter the total RFP value into the Google Form.
@@ -74,17 +65,16 @@ CAUTION: If the Cost Object or Sub-Budget Code or G/L Account differs between li
 </div>
 
 ## Step 4: Tracking your Reimbursement
-1. Go to: [https://atlas.mit.edu/](https://atlas.mit.edu/)
-2. Click on "My Reimbursements" then "Track My Reimbursements"
-3. A summary of all your unpaid RFPs will be shown
-    * You can also see your paid RFPs from up to the last 90 days under "Select RFPs to display"
+1. Go to: [https://atlas.mit.edu/](https://atlas.mit.edu/)](https://app.atlas-apps.mit.edu/)
+2. Click on "Payments & Reimbursements"
+3. A summary of all your RFPs and their respective status will be shown
 
 ## RFP Rejections
 
-* If your RFP gets rejected, it will be returned to your RFP Inbox with a note indiciating the issue.
+* If your RFP gets rejected, a GA^3 financial approver will reach out to you to make changes.
 * To resubmit your RFP:
     1. Correct the error.
-    2. Resend the the RFP to the appropriate finanical officer.
+    2. Infor the GA^3 financial approver that the changes have been made.
     3. Resubmit [the Google Form](https://forms.gle/URog4LprTQhmz1r38).
 * To prevent your RFP from getting rejected again, make sure you do **ALL THREE** of the above steps.
 
