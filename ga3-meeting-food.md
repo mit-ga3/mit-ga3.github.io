@@ -31,10 +31,10 @@ title: GA^3 Meeting Food Reimbursement
 Event Topic: [INPUT]
 Event Date: [INPUT]
 Event Time: [INPUT]
-Event Location: [INPUT]
-# of MIT Students: [INPUT]
-# of MIT Employees: [INPUT]
-# of Other Attendees: [INPUT]
+Event Location: [INPUT] -- can also be put in resective field that appears when selecting meeting G/L
+# of MIT Students: [INPUT] -- can also be put in resective field that appears when selecting meeting G/L
+# of MIT Employees: [INPUT] -- can also be put in resective field that appears when selecting meeting G/L
+# of Other Attendees: [INPUT] -- can also be put in resective field that appears when selecting meeting G/L
 ```
 
 * Example:
