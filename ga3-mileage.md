@@ -13,45 +13,19 @@ title: GA^3 Mileage Reimbursement
 <img src="imgs/mileage-screenshot.png">
 </details>
 
-<details>
-<summary>Your completed RFP should look something like this.</summary>
-<img src="imgs/ga3-meeting-rfp.png">
-</details>
-<br/>
-<hr/>
-
-
-## Name this RFP
-* Template: `[Sub-Budget Code]; [Event Date]; [Your Initials]`
-* Where:
-    * `[Sub-Budget Code]` is from the [current semester's budget spreadsheet or Funds Viewer](./useful-links)
-    * `[Event Date]` is the date of the event in the following form `MMM DD` (e.g. `Jan 31`)
-    * `[Your Initials]` are your initials (e.g. `AJF`)
-* Example: `SOC 1.1; Jan 31; AJF`
-
-
-
 ## Date of Service
 * The `Date of Service` is the date of the drive in the form `MM/DD/YYYY`.
-
-
 
 ## G/L Account
 * `420050 - Travel Expenses`
 * For this type of reimbursement, always use this `G/L Account` unless otherwise instructed.
 
-
-
 ## Cost Object
 * `1462834`
 * For this type of reimbursement, always use this `Cost Object` unless otherwise instructed.
 
-
-
 ## Amount
 * The total amount to be reimbursed, which is the total number of miles times the current IRS Standard Mileage Rate (see above for current rate). Do *NOT* include a `$`.
-
-
 
 ## Explanation
 * Write a few sentences containing **all** the following material:
