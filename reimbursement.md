@@ -7,6 +7,7 @@ title: Reimbursement Instructions
 
 <div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #31708f; background-color: #d9edf7; border-color: #bce8f1;">
 INFO: We ask you to **submit your RFP within 5 days after the event took place**. This allows us to keep track of spending and to give us enough time to process (and if needed correct) the RFP. The official AeroAstro deadline is 30 days. We do not want to deal with delayed RFPS!
+</div>
 
 ## Step 0: Event Planning
 * If you're planning the event, check the [Event Planner Checklist](./event-planner-checklist) before continuing.
