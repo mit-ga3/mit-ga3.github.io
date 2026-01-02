@@ -66,7 +66,7 @@ CAUTION: If the Cost Object or Sub-Budget Code or G/L Account differs between li
 </div>
 
 ## Step 4: Tracking your Reimbursement
-1. Go to: [https://atlas.mit.edu/](https://atlas.mit.edu/)
+1. Go to: [https://app.atlas-apps.mit.edu/](https://app.atlas-apps.mit.edu/)
 2. Click on "Payments & Reimbursements"
 3. A summary of all your RFPs and their respective status will be shown
 
