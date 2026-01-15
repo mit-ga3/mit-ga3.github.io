@@ -47,7 +47,7 @@ INFO: We ask you to **submit your RFP within 5 days after the event took place**
 | Name | Kerberos | Condition |
 | ---- | -------- | --------- |
 | *tba* | *tba* | **ONLY** for Executive Committee Meeting |
-| *tba* | *tba* | **ONLY** for GSM Community Meals |
+| Junhyung Park | jpark31 | **ONLY** for GSM Community Meals |
 | Marlene Euchenhofer | euchmv | Everything **else** |
 
 <div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
